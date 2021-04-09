@@ -20,6 +20,17 @@ body {
   background: white;
 }
 
+main {
+  width: 90vw;
+  max-width: var(--fixed-width);
+  margin: 5rem auto;
+}
+
+.loading {
+  text-align: center;
+  font-size: 3rem;
+}
+
 /* Media Queries */
 /* 576px, 768px, 992px and 1200p */
 @media (max-width: 1200px) {
