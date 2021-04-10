@@ -5,7 +5,7 @@ const Cars = ({ cars }) => {
   return (
     <section>
       <div className='title'>
-        <h2>Our Classic Cars</h2>
+        <h2>Select Classic Cars</h2>
       </div>
       <div>
         {cars.map((car) => {

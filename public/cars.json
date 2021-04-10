@@ -4,48 +4,48 @@
 	"name": "Fiat 1500",
 	"info": "The Fiat 1300 and Fiat 1500 are automobiles which were manufactured by the Italian automaker Fiat from 1961 to 1967. They replaced the Fiat 1400 and Fiat 1200 coupé, spyder and cabriolet. The 1300 and 1500 were essentially identical except for their engine displacement, as indicated by their model names.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fiat_1500_1.jpg/420px-Fiat_1500_1.jpg",
-	"price": "£11,000"
+	"price": "11,000"
 },
 {
 	"id": 2,
 	"name": "Fiat 600",
 	"info": "The Fiat 600 is a rear-engine, water-cooled city car, manufactured and marketed by Fiat from 1955 to 1969 — offered in two-door fastback sedan and four-door Multipla mini MPV body styles.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fiat600.jpg/420px-Fiat600.jpg",
-	"price": "£11500"
+	"price": "11500"
 },
 {
 	"id": 3,
 	"name": "Nash Airflyte",
 	"info": "There has always been a touch of controversy about the 1949-1951 Nash Airflyte. Critics have decried their near cartoon-like styling, while supporters have praised them for their comfort, room, and quiet.",
 	"image": "https://cdn.hswstatic.com/gif/1949-1951-nash-airflyte-1.jpg",
-	"price": "£300,000"
+	"price": "300,000"
 },
 {
 	"id": 4,
 	"name": "Humber Hawk Series IV",
 	"info": "In the early spring of 1951[7] the Mark IV version arrived with a larger, 2267 cc engine incorporating, as before, an aluminium cylinder head[8] and with a 58 instead of 56 bhp output. However, at mid range speeds around 15 percent more power was generated.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Humber_Hawk_%284663877948%29.jpg/420px-Humber_Hawk_%284663877948%29.jpg",
-	"price": "£8,000"
+	"price": "8,000"
 },
 {
 	"id": 5,
 	"name": "Tatra T97",
 	"info": "The Tatra T97 was introduced in 1936 and remained in production until 1939, with 508 examples produced. It was equipped with a 1.8-liter flat four-cylinder unit offering 40 horsepower. ",
 	"image": "https://secureservercdn.net/198.71.233.86/yga.972.myftpupload.com/wp-content/uploads/2019/10/TATRA-T97.png",
-	"price": "£250,000"
+	"price": "250,000"
 },
 {
 	"id": 6,
 	"name": "Ford Pilot V8",
   "info": "The Pilot was the first large post-War British Ford. It was based on the pre-War 22 bhp (16 kW) Model 62 chassis, and was initially offered in 1946 with the 2227 cc side-valve V8 60 engine from the 1939 model.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ford_V8_Pilot.jpg/420px-Ford_V8_Pilot.jpg",
-	"price": "£6,000"
+	"price": "6,000"
 },
 {
 	"id": 7,   
 	"name": "Citroën Traction Avant 11",
 	"info": "The Traction Avant is considered one of the most mythical cars of the 20th century. Designed by an Italian sculptor of genius Flaminio Bertoni, it owes its genesis to a daring industrialist, André Citroën.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tractionfr02.jpg/420px-Tractionfr02.jpg",
-	"price:": "£20,000"
+	"price:": "20,000"
 }
 ]
