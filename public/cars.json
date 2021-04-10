@@ -17,7 +17,7 @@
 	"id": 3,
 	"name": "Nash Airflyte",
 	"info": "There has always been a touch of controversy about the 1949-1951 Nash Airflyte. Critics have decried their near cartoon-like styling, while supporters have praised them for their comfort, room, and quiet.",
-	"image": "https://cdn.hswstatic.com/gif/1949-1951-nash-airflyte-1.jpg",
+	"image": "https://img.hmn.com/900x675/stories/2018/02/1949_Nash_Airflyte_600_Sedan_2746.jpg",
 	"price": "300,000"
 },
 {
@@ -46,6 +46,6 @@
 	"name": "Citroën Traction Avant 11",
 	"info": "The Traction Avant is considered one of the most mythical cars of the 20th century. Designed by an Italian sculptor of genius Flaminio Bertoni, it owes its genesis to a daring industrialist, André Citroën.",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tractionfr02.jpg/420px-Tractionfr02.jpg",
-	"price:": "20,000"
+	"price": "20,000"
 }
 ]
