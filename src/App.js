@@ -7,6 +7,11 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [cars, setCars] = useState([])
 
+  const removeCar = (id) => {
+    const newCars = cars.filter((car) => car.id !== id)
+    setCars(newCars)
+  }
+
   const fetchCars = async () => {
     setLoading(true)
 
@@ -35,7 +40,7 @@ function App() {
   }
   return (
     <main>
-      <Cars cars={cars} />
+      <Cars cars={cars} removeCar={removeCar} />
     </main>
   )
 }

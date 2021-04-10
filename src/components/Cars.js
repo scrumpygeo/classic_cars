@@ -1,7 +1,7 @@
 import React from 'react'
 import Car from './Car'
 
-const Cars = ({ cars }) => {
+const Cars = ({ cars, removeCar }) => {
   return (
     <section>
       <div className='title'>
@@ -9,7 +9,7 @@ const Cars = ({ cars }) => {
       </div>
       <div>
         {cars.map((car) => {
-          return <Car key={car.id} {...car} />
+          return <Car key={car.id} {...car} removeCar={removeCar} />
         })}
       </div>
     </section>
