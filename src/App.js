@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-// import carData from './cars.json'
 
 import Loading from './components/Loading'
 import Cars from './components/Cars'
@@ -16,6 +15,7 @@ function App() {
       const cars = await response.json()
       setLoading(false)
       setCars(cars)
+      // console.log(Array.isArray(cars))
     } catch (error) {
       setLoading(false)
       console.log(error)
@@ -35,7 +35,7 @@ function App() {
   }
   return (
     <main>
-      <Cars />
+      <Cars cars={cars} />
     </main>
   )
 }
