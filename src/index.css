@@ -18,7 +18,11 @@ body {
 main {
   width: 90vw;
   max-width: 620px;
-  margin: 5rem auto;
+  margin: 2rem auto;
+}
+
+.title {
+  text-align: center;
 }
 
 .card {
@@ -51,6 +55,15 @@ footer {
   background: rgb(230, 205, 174);
   color: hsl(205, 78%, 60%);
   background: hsl(205, 100%, 96%);
+}
+
+.btn-readMore {
+  background: transparent;
+  border-color: transparent;
+  color: hsl(205, 78%, 60%);
+  font-size: 1rem;
+  cursor: pointer;
+  padding-left: 0.25rem;
 }
 
 .btn-delete {
