@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import { data } from '../public/cars.json'
 
 import Loading from './components/Loading'
 import Cars from './components/Cars'
@@ -43,7 +42,7 @@ function App() {
     return (
       <main>
         <div className='title'>
-          <h2>No tours left.</h2>
+          <h2>No cars left.</h2>
           <button className='btn' onClick={fetchCars}>
             Reset
           </button>
