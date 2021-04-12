@@ -1,3 +1,8 @@
+:root {
+  --primary-color: hsl(205, 78%, 60%);
+  --delete-color: hsl(360, 67%, 44%);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -53,14 +58,27 @@ footer {
 .price {
   padding: 0.25rem 0.5rem;
   background: rgb(230, 205, 174);
-  color: hsl(205, 78%, 60%);
+  color: var(--primary-color);
   background: hsl(205, 100%, 96%);
+}
+
+.btn {
+  background: var(--primary-color);
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  text-transform: capitalize;
+  color: white;
+  border-color: transparent;
+  cursor: pointer;
+  margin-top: 2rem;
+  font-size: 1.2rem;
 }
 
 .btn-readMore {
   background: transparent;
   border-color: transparent;
-  color: hsl(205, 78%, 60%);
+  color: var(--primary-color);
   font-size: 1rem;
   cursor: pointer;
   padding-left: 0.25rem;
@@ -70,9 +88,9 @@ footer {
   display: block;
   width: 200px;
   margin: 1rem auto 0 auto;
-  color: hsl(360, 67%, 44%);
+  color: var(--delete-color);
   background: transparent;
-  border: 1px solid hsl(360, 67%, 44%);
+  border: 1px solid var(--delete-color);
   padding: 0.25rem 0.5rem;
   border-radius: 0.25rem;
 }
